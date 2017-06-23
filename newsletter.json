@@ -1,0 +1,13 @@
+{
+  "articles": [{
+    "title": "CodeFights launches a new practice mode",
+    "description": "Most technical job interviews for developers are somewhat predictable in that they will likely involve some kind of coding",
+    "banner": "https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=738",
+    "link": "https://techcrunch.com/2017/06/22/codefights-new-practice-mode-helps-developers-prepare-for-job-interviews/"
+  },{
+    "title": "Emmanuel Macron proves that he still cares about startups",
+    "description": "It wasn’t just a quick visit, Macron wanted to send a message to the startup community ",
+    "banner": "https://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-696351716.jpg?w=1279&h=727&crop=1",
+    "link": "https://techcrunch.com/2017/06/16/emmanuel-macron-proves-that-he-still-cares-about-startups/"
+  }]
+}
